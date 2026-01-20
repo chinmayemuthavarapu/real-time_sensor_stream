@@ -76,11 +76,10 @@ DEV003:  CRITICAL | Temp: 45.2°C | Last: 10:30:20
 3.Report File
 
 DAILY SENSOR REPORT - 2024-01-15
-=================================
+
 Total Readings: 1250
 Critical Alerts: 8
 Warning Alerts: 25
 Average Temperature: 42.5°C
 Active Devices: 5
 Generated: 2024-01-15 23:59:59
-=================================
